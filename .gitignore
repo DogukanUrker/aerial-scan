@@ -1,0 +1,13 @@
+tiles/
+cog/
+fonts/
+*.jsonl
+fetch.log
+scan.log
+mosaic.jpg
+/grid.json
+done.npy
+/pools.json
+out/*.mp4
+out/*.png
+__pycache__/
